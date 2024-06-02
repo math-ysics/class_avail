@@ -47,7 +47,6 @@
         }, 3000);
     }
 
-    // Run the functions
     checkAvailability();
     autoRefresh();
 })();
